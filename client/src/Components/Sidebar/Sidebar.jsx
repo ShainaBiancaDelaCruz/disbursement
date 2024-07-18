@@ -19,7 +19,7 @@ const Sidebar = () => {
                 href="#"
               >
                 <FaElementor className="h-6 w-6" />
-                <span className="mx-4 text-lg font-normal">Element</span>
+                <span className="mx-4 text-lg font-normal">Page 1</span>
                 <span className="flex-grow text-right"></span>
               </a>
               <a
@@ -35,7 +35,7 @@ const Sidebar = () => {
                 href="#"
               >
                 <FaShoppingCart className="h-6 w-6" />
-                <span className="mx-4 text-lg font-normal">Commerce</span>
+                <span className="mx-4 text-lg font-normal">Page 3</span>
                 <span className="flex-grow text-right">
                   <button
                     type="button"
