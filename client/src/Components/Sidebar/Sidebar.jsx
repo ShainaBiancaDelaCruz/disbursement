@@ -2,7 +2,7 @@ import React from 'react';
 import { FaRocket, FaElementor, FaWpforms, FaShoppingCart, FaCompass, FaLifeRing } from 'react-icons/fa';
 import { CiLogout } from "react-icons/ci";
 
-const Navbar = () => {
+const Sidebar = () => {
   return (
     <div className="fixed top-0 left-0 h-full w-72 bg-grey dark:bg-gray-800">
       <div className="flex flex-col sm:flex-row sm:justify-around h-full">
@@ -70,4 +70,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Sidebar;
